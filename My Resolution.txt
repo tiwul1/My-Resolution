@@ -3,3 +3,5 @@ MY RESOLUTION
 2. Finished : Python, MySQL, PHP
 3. Draft my own web
 4. Intermediate : German, Japanese, Korean
+5. Membuat draft web Resto & Caffe
+6. Kolaborasi dengan orang lain, minimal 2 orang
